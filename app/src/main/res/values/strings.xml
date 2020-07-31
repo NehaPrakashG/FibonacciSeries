@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="enter_postion">Enter position to find</string>
+    <string name="position_error">Enter position between 1 - 1000</string>
+</resources>
